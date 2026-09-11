@@ -1,0 +1,103 @@
+geometry/geometry.go
+  s_410a5fbf345a15::t_3e1584bd67cce4 2-5,7,9-10,12-13,15-16,18-22,24-33,37-51,94,96
+  s_410a5fbf345a15::t_5d75fd30d87ab3 1,6,8,11,14,17,23,34-36,52,74-90,95
+  s_410a5fbf345a15::t_e0fac52dd68d90 53-73,91-93
+apperr/apperr.go
+  s_410a5fbf345a15::t_50c695045b1052 1,10,13,25-53
+  s_410a5fbf345a15::t_3684ee6cf737b8 2-9,11-12,14-24,54
+builtins/builtins.go
+  s_410a5fbf345a15::t_cdb1d65344b68f 1-68
+iter/iter.go
+  s_410a5fbf345a15::t_69293268f7b0dc 1-74
+README.md
+  s_410a5fbf345a15::t_830982f0a66fe1 40-42
+  s_410a5fbf345a15::t_9e7be40221c5d2 17
+  s_410a5fbf345a15::t_03803914da8143 52-54
+  s_410a5fbf345a15::t_9ed51464454053 2-8,10-16,18-39,43-51,55-56
+testingdemo/doc.go
+  s_410a5fbf345a15::t_e0c4c8869eb679 1-6
+syntax/run/main.go
+  s_410a5fbf345a15::t_b5edd461928961 1-3,5-6
+builtins/run/main.go
+  s_410a5fbf345a15::t_16da3df2157783 1-3,5-6
+internal/hidden/hidden.go
+  s_410a5fbf345a15::t_7700d05d38bc2b 3-12
+nums/run/main.go
+  s_410a5fbf345a15::t_fb43b56c7b8ee5 1-3,5-6
+modules/run/main.go
+  s_410a5fbf345a15::t_50c2cec7eb0814 1-3,5-6
+apperr/run/main.go
+  s_410a5fbf345a15::t_93ddde2f475c79 1-3,5-6
+types/types.go
+  s_410a5fbf345a15::t_67d94fb9947cf2 1-44
+ctxdemo/ctxdemo.go
+  s_410a5fbf345a15::t_6c599e84286fef 1-32
+conc/conc_other.go
+  s_410a5fbf345a15::t_12f3eeef2df550 1-5
+consts/run/main.go
+  s_410a5fbf345a15::t_006dc5db3f9b1f 1-3,5-6
+jsondemo/jsondemo.go
+  s_410a5fbf345a15::t_23b78d1e16ddfb 1-34
+consts/consts.go
+  s_410a5fbf345a15::t_7e0dd4384402ce 1-48
+collection/run/main.go
+  s_410a5fbf345a15::t_a4bfcafd34d74d 1-3,5-6
+nums/nums.go
+  s_410a5fbf345a15::t_0e2eeafe254529 1,4-7,9,24,31-35
+  s_410a5fbf345a15::t_36412452603a27 2-3,8,10-23,25-30,36
+ctxdemo/run/main.go
+  s_410a5fbf345a15::t_e076001200597c 1-3,5-6
+conc/run/main.go
+  s_410a5fbf345a15::t_c215f68b45f991 1-3,5-6
+conc/conc_linux.go
+  s_410a5fbf345a15::t_829ebfcba1bcbc 1-5
+types/run/main.go
+  s_410a5fbf345a15::t_4953188c0b1d38 1-3,5-6
+modules/modules.go
+  s_410a5fbf345a15::t_23cb1fd5c46bc9 1-5,7-46,49-52
+  s_410a5fbf345a15::t_4462fafab1a5bb 47-48
+main.go
+  s_410a5fbf345a15::t_f6ae35845e2f51 1-2,9,28-30,56
+  s_410a5fbf345a15::t_2d62388776c242 49-50
+  s_410a5fbf345a15::t_c10e9e07e7b65f 3-4,6,10-11,31-48,51-55
+reflectdemo/run/main.go
+  s_410a5fbf345a15::t_d2e45ea8a60be4 1-3,5-6
+syntax/syntax.go
+  s_410a5fbf345a15::t_ea9d6f795ac830 1-40,42-113
+geometry/run/main.go
+  s_410a5fbf345a15::t_d3167e780a8c50 1-3,5-6
+reflectdemo/reflectdemo.go
+  s_410a5fbf345a15::t_f3c6f28850c867 1-27,33,35-58
+  s_410a5fbf345a15::t_9a35b610d82f97 28-32,34
+testingdemo/demo_test.go
+  s_410a5fbf345a15::t_a4f090f182a50f 52-53
+  s_410a5fbf345a15::t_983c7e3be2daf0 1-51,54-72
+composition/run/main.go
+  s_410a5fbf345a15::t_da21941caae8ea 1-3,5-6
+jsondemo/run/main.go
+  s_410a5fbf345a15::t_21aa053386e3fb 1-3,5-6
+conc/conc.go
+  s_410a5fbf345a15::t_d5548c3f4e79f9 1-95
+iter/run/main.go
+  s_410a5fbf345a15::t_18ef67edb2c098 1-3,5-6
+composition/composition.go
+  s_410a5fbf345a15::t_2aa8b114fd5bbb 1-58
+collection/collection.go
+  s_410a5fbf345a15::t_cfc114a0af39a0 1-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "8299faa260e5772ee080648879eb403cd5c912cb",
+  "prompts": {},
+  "sessions": {
+    "s_410a5fbf345a15": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bd7c8e11-9d48-4f43-8db8-816f205c94c8",
+        "model": "glm-5.2"
+      },
+      "human_author": "chen_xingyu <chen_xingyu@trip.com>"
+    }
+  }
+}
